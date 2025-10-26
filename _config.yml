@@ -10,8 +10,8 @@
 locale: "en-US"
 minimal_mistakes_skin: "default"    # or "air"
 title_separator: "-"
-url: "https://alidemir1995ad-alt.github.io"   # no trailing slash
-baseurl: "/alidemir"                           # project site path
+url: "https://alidemir1995ad-alt.github.io"
+baseurl: "/alidemir"
 title: "Ali Demir"
 name: "Ali Demir"
 email: "Ali.Demir-l1f@ruhr-uni-bochum.de"
