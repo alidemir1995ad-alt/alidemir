@@ -7,17 +7,17 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title_separator          : "-"
+locale: "en-US"
+minimal_mistakes_skin: "default"    # or "air"
+title_separator: "-"
 url: "https://alidemir1995ad-alt.github.io"   # no trailing slash
-baseurl: "/alidemir"                # project site path
+baseurl: "/alidemir"                           # project site path
 title: "Ali Demir"
 name: "Ali Demir"
 email: "Ali.Demir-l1f@ruhr-uni-bochum.de"
-description: "PhD Researcher in Empirical Economics"                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+description: "PhD Researcher in Empirical Economics"
+repository: "alidemir1995ad-alt/alidemir"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
